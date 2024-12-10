@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+config/config.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Coverage directory for testing
+coverage/
+
+# Build files
+dist/
+build/
+
+# npm package lock files
+package-lock.json
+yarn.lock
+
+# Cloudinary cache files (if applicable)
+.cloudinary_cache/
+
+# Optional for macOS users
+*.DS_Store
